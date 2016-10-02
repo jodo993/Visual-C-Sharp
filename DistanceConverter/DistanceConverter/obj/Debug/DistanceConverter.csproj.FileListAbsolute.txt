@@ -1,0 +1,9 @@
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe.config
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csprojResolveAssemblyReference.cache
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.Form1.resources
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.Properties.Resources.resources
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csproj.GenerateResource.Cache
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.pdb
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
+C:\Users\josep\Desktop\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb
