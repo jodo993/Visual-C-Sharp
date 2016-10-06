@@ -1,0 +1,18 @@
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.exe.config
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.csprojResolveAssemblyReference.cache
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.Form1.resources
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.Properties.Resources.resources
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.csproj.GenerateResource.Cache
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.exe
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.pdb
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.exe
+C:\Users\josep\Desktop\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.pdb
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.exe.config
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.exe
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.pdb
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.exe
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\bin\Debug\WorkshopSelection.pdb
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.csprojResolveAssemblyReference.cache
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.Form1.resources
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.Properties.Resources.resources
+C:\Users\josep\Desktop\Fall 2016 School Work\Work in Progress\WorkshopSelection\WorkshopSelection\obj\Debug\WorkshopSelection.csproj.GenerateResource.Cache
