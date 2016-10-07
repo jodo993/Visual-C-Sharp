@@ -1,0 +1,21 @@
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojResolveAssemblyReference.cache
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Form1.resources
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.Cache
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+C:\Users\jdo61\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojResolveAssemblyReference.cache
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Form1.resources
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+D:\GWC - CS 178\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.Cache
+C:\Users\josep\Desktop\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+C:\Users\josep\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+C:\Users\josep\Desktop\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb

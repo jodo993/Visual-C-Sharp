@@ -1,0 +1,9 @@
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe.config
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.csprojResolveAssemblyReference.cache
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Form1.resources
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Properties.Resources.resources
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.GenerateResource.Cache
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.pdb
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.exe
+C:\Users\josep\Desktop\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.pdb

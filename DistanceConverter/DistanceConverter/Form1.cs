@@ -19,20 +19,26 @@ namespace DistanceConverter
 
         private void convertButton_Click(object sender, EventArgs e)
         {
-            double result;
-            string selectedDistanceFrom;
-            string selectedDistanceTo;
+            double result;                  // Output of conversion from the selectedFrom to the selectedTo box
+            double userInput;               // Number that user wants to convert to different measurement
+            string selectedDistanceFrom;    // Selection from the first list box
+            string selectedDistanceTo;      // Selection from the second list box
 
-            if (fromListBox.SelectedIndex != -1 && toListBox.SelectedIndex != -1 && userInputTextBox > 0)
+            // Number that user entered into a double
+            userInput = double.Parse(userInputTextBox.Text);
+
+            // Checks to see if list box is selected
+            if (fromListBox.SelectedIndex != -1 && toListBox.SelectedIndex != -1)
             {
-                double userInput = double.Parse(userInputTextBox.Text);
+                // Obtain the distance that the user want from each list box
                 selectedDistanceFrom = fromListBox.SelectedItem.ToString();
                 selectedDistanceTo = toListBox.SelectedItem.ToString();
 
+                // Checks for a match within the first list box then checks for match within second list box and return the correct response
                 switch (selectedDistanceFrom)
                 {
-                    case "Inches":
-                        switch (selectedDistanceTo)
+                    case "Inches":      // If first selection is inches
+                        switch (selectedDistanceTo)     // Checks second selection here
                         {
                             case "Inches":
                                 result = userInput * 1;
@@ -40,19 +46,19 @@ namespace DistanceConverter
                                 break;
                             case "Feet":
                                 result = userInput / 12;
-                                resultLabel.Text = result.ToString();
+                                resultLabel.Text = result.ToString("n2");
                                 break;
                             case "Yards":
                                 result = userInput / 36;
-                                resultLabel.Text = result.ToString();
+                                resultLabel.Text = result.ToString("n2");
                                 break;
                         }
                         break;
-                    case "Feet":
-                        switch (selectedDistanceTo)
+                    case "Feet":        // If first selection is feet
+                        switch (selectedDistanceTo)     // Checks second selection here
                         {
                             case "Inches":
-                                result = userInput / 12;
+                                result = userInput * 12;
                                 resultLabel.Text = result.ToString();
                                 break;
                             case "Feet":
@@ -61,19 +67,19 @@ namespace DistanceConverter
                                 break;
                             case "Yards":
                                 result = userInput / 3;
-                                resultLabel.Text = result.ToString();
+                                resultLabel.Text = result.ToString("n2");
                                 break;
                         }
                         break;
-                    case "Yards":
-                        switch (selectedDistanceTo)
+                    case "Yards":       // If first selection is yards
+                        switch (selectedDistanceTo)     // Checks second selection here
                         {
                             case "Inches":
                                 result = userInput * 36;
                                 resultLabel.Text = result.ToString();
                                 break;
                             case "Feet":
-                                result = userInput * 12;
+                                result = userInput * 3;
                                 resultLabel.Text = result.ToString();
                                 break;
                             case "Yards":
@@ -84,7 +90,7 @@ namespace DistanceConverter
                         break;
                 }
             }
-            else
+            else            // Display if user did not select two options
             {
                 MessageBox.Show("Please select two options.");
             }
@@ -92,6 +98,7 @@ namespace DistanceConverter
 
         private void exitButton_Click(object sender, EventArgs e)
         {
+            // Close the program
             this.Close();
         }
     }
